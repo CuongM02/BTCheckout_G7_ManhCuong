@@ -1,8 +1,8 @@
-# CV cá nhân - Ngô Minh Quang
+# CV cá nhân - Nguyễn Mạnh Cường
 # HUTECH - Đại học Công nghệ TP.HCM
 ## Thẻ sinh viên
-*  Họ tên: Ngô Minh Quang
-*  Ngày sinh: 13/10/2002
-*  MSSV: 2011063752
+*  Họ tên: Nguyễn Mạnh Cường
+*  Ngày sinh: 16/02/2002
+*  MSSV: 2011061415
 *  Khóa: 2020 - 2024
 *  Ngành: Công nghệ Phần mềm
